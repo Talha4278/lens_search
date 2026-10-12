@@ -1,0 +1,56 @@
+[
+  {
+    "sku": "BALL-UCL-PRO-24",
+    "title": "Alpha Ball",
+    "brand": "Nike",
+    "category": "Balls",
+    "image_path": "Catalog_images/ball1.jpg",
+    "color": "Obsidian Black / Hyper Turquoise",
+    "color_rgb": [20, 30, 45],
+    "specifications": {
+      "Surface / Soleplate": "Firm Ground (FG)",
+      "Cushioning": "3/4-length articulated Zoom Air unit",
+      "Upper Material": "Vaporposite+ gripping mesh",
+      "Stud Configuration": "Tri-star studs for multidirectional traction",
+      "Weight": "185 grams (Size UK 8.5)",
+      "Tier": "Elite / Professional Match",
+      "Price": "$275.00"
+    }
+  },
+  {
+    "sku": "BOOT-ADI-PRED-ELITE",
+    "title": "Adidas Predator Elite Foldover Tongue FG",
+    "brand": "Adidas",
+    "category": "Balls",
+    "image_path": "Catalog_images/ball2.jpg",
+    "color": "Core Black / Solar Red / White",
+    "color_rgb": [35, 20, 25],
+    "specifications": {
+      "Surface / Soleplate": "Firm Ground (FG) Controlframe 2.0",
+      "Upper Material": "HybridTouch 2.0 with rubber Strikeskin fins",
+      "Tongue": "Fold-over tongue with elasticated strap",
+      "Weight": "208 grams (Size UK 8.5)",
+      "Key Attribute": "Spin and precision shooting control",
+      "Tier": "Elite / Pro Issue",
+      "Price": "$280.00"
+    }
+  },
+  {
+    "sku": "BOOT-PUMA-FUT7",
+    "title": "Puma Future 7 Ultimate FG/AG",
+    "brand": "Puma",
+    "category": "Balls",
+    "image_path": "Catalog_images/ball3.jpg",
+    "color": "Blazing Coral / White",
+    "color_rgb": [220, 75, 60],
+    "specifications": {
+      "Surface / Soleplate": "Hybrid Firm Ground / Artificial Grass (FG/AG)",
+      "Upper Material": "FUZIONFIT360 dual-mesh with PWRTAPE",
+      "Outsole": "Dynamic Motion System dual-density outsole",
+      "Fit": "Play with or without laces",
+      "Weight": "214 grams",
+      "Tier": "Pro Top Tier",
+      "Price": "$240.00"
+    }
+  }
+]
